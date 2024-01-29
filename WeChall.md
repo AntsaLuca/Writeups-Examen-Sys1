@@ -49,11 +49,11 @@ Mot de passe : "bitwarrior"
 Mot de passe : "patience"
 
 ## Niveau 2
-- `cd documents`
-- `ls`
-- `cat`
+- `ls -al`
+- `cd .porb`
+- `cat .solution`
 
-Mot de passe : "level02"
+Mot de passe : "HiddenIsConfig"
 
 ## Niveau 3
 - Utilisez `ls –al` pour voir les dossiers et fichiers cachés.
